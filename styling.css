@@ -1,0 +1,46 @@
+h1 {
+    font: 3em "Fira Sans", sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font: 2em "Fira Sans", sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font: 1em "Fira Sans", sans-serif;
+    padding-left: 4em;
+    padding-right: 4em;
+}
+
+body {
+    background-color: gray;
+}
+
+.list-text {
+    font: 1em "Fira Sans", sans-serif;
+    
+}
+
+legend {
+    font: 3em "Fira Sans", sans-serif;
+}
+
+#essay {
+    
+}
+
+#navbar {
+    overflow: hidden;
+    background-color:green;
+}
+
+#navbar a {
+    float: left;
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
